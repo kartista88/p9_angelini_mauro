@@ -272,21 +272,37 @@ Dati libro
 Disponibile: false
 
 ISBN: ISBN978-88-540-3091-4
+
 Titolo: Cina
+
 Autore: NationalGeografic
+
 CasaEditrice: EdizioniWhiteStar
+
 AnnoEdizione: 2016
+
 Utente registrato:
+
 Nome:		Mauro
+
 Cognome:	Angelini
+
 Età:		25
+
 Indirizzo:	Via Piantelli 2A / 24
+
 Email:		mauro91ge@gmail.com
+
 Telefono:	3207065215
+
 Username:	mauro
+
 Password:	Mauro.88
+
 Data di ritiro: 2017-05-26
+
 Data di consegna: 2017-06-09
+
 
 E il sistema consente il prestito se il libro è disponibile riportando la collocazione, la data di ritiro e la data di consegna
 
@@ -295,45 +311,78 @@ Consente la consultazione ( premendo 4 )
 Il libro scelto è disponibile alla consultazione
 
 
+
 Non possiede un abbonamento alla consultazione
 
+
 Puoi comunque consultare il libro grazie al servizio a pagamento di singola consultatione
+
 Vuoi procedere con il pagamento?
+
 1 - PAGA	2 - ANNULLA -->
+
 
 In questo caso l'utente non è abbonato ma può procedere a pagare la singola consultazione
 Immette quindi numero di carta e codice di 3 cifre riportato sul retro
 
+
 Immettere il codice della carta -> 
+
 5338750189965335
+
 Immettere il codice di sicurezza -> 
+
 895
+
 Puoi ritirare il libro dalle 17:45:40.703 e consegnarlo in data odierna alle 18:00
+
 
 Conferma il pagamento l'utente ha un mese di abbonamento il sistema apre la consultazione che inizia dall'ora del pagamento fino alla chiusura della biblioteca quindi alle 18 : 00
 
+
 Tornando al menu principale vado spiegare l'abbonamento mensile alla consultazione ( premendo 2 )
 
+
 Qui potrai abbonarti al servizio di consultazione, ti offriamo un abbonamento mensile
+
 Vuoi procedere con il pagamento?
+
 1 - CONFERMA	2 - RIFIUTA -->1
+
 Immettere il codice della carta -> 
+
 53387501189891
+
 Immettere il codice di sicurezza -> 
+
 253
+
 Abbonamento :
+
 Data di inizio: 2017-05-26
+
 Data di fine: 2017-06-26
+
 Pagato: true
+
 Utente registrato:
+
 Nome:		Mauro
+
 Cognome:	Angelini
+
 Età:		25
+
 Indirizzo:	Via Piantelli 2A / 24
+
 Email:		mauro91ge@gmail.com
+
 Telefono:	3207065215
+
 Username:	mauro
+
 Password:	Mauro.88
+
 
 Il sistema chiede i dati della carta di credito (unico metodo di pagamento) e una volta confermato indica la data di inizio e fine abbonamento all'utente
 
