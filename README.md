@@ -269,7 +269,7 @@ Dati prestito:
 Dati libro
 
 
-Disponibile: false
+Disponibile: true
 
 ISBN: ISBN978-88-540-3091-4
 
