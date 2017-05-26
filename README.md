@@ -5,7 +5,9 @@ Una volta importato il progetto java su eclipse è possibile leggere la document
 A questo punto è possibile eseguire il progetto java su eclipse dove si aprira la console di eclipse con il menu principale: 
 
 Benvenuto/a nel sistema di gestione delle Biblioteche
+
 -------------------------MENU----------------------
+
 1-	Login
 2-	Iscriviti
 3-	Ricerca
