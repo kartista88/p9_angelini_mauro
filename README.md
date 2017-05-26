@@ -9,16 +9,24 @@ Benvenuto/a nel sistema di gestione delle Biblioteche
 -------------------------MENU----------------------
 
 1-	Login
+
 2-	Iscriviti
+
 3-	Ricerca
+
 4-	Suggerisci acquisto prodotto
+
 5- 	Esci
+
 Inserisci un numero da 1 a 5 e premi INVIO -> __
+
 
 E siccome nel sistema sono già stati caricati dei dati da file è possibile effettuare il log in ( premendo 1 ) inserendo come credenziali:
 
 Username:	mauro
+
 Password:	Mauro.88
+
 
 Oppure è possibile iscriversi ( premendo 2 ) inserendo i propri dati badando di ricordarsi i propri dati, il sistema per questo task ha le seguenti caratteristiche:
 - è in grado di bloccare un'iscrizione se l'utente ha un'età minore di 13 anni
@@ -26,143 +34,243 @@ Oppure è possibile iscriversi ( premendo 2 ) inserendo i propri dati badando di
 - controlla che la password inserita abbia le seguenti caratteristiche -> 1 . Deve contenere almeno 8 caratteri; 2 . Deve avere almeno un segno di punteggiatura; 3 . Deve contenere almeno un numero.
 
 Iscriviti come utente registrato:
+
 Compila tutti i campi obbligatori*
+
 Nome:		Nome
+
 Cognome:	Cognome
+
 Età:		13
+
 Indirizzo:	Indirizzo
+
 Email:		Email
+
 Telefono:	010
+
 Username:	Username
+
 Password:	Passw0rd!
 
 Per effettuare la ricerca di libri ( premere 3 ) e apparirà inizialmente:
 
 Pannello di ricerca libri, qui puoi cercare i libri inserendo da uno a tutti i campi disponibili:
+
 ISBN:
 
 Infatti la ricerca è pensata per permettere di poter inserire se si ritiene un campo alla volta, in modo da poter impostare la ricerca da 0 a 4 campi di disponibili per cercare un libro. Per esempio se si vuole cercare solo per ISBN si inserisce il valore e si preme invio e si lasciano vuoti gli altri campi premendo semplicemente invio. I risultati della ricerca possono portare a uno o piu libri:
 
-ISBN:	
+ISBN:
+
 Titolo:	
+
 Autore:	NationalGeografic
+
 Casa editrice:	
+
 Anno edizione:	
+
 Elenco risultati:
 
+
 Catalogo :Librario
 
+
 Dati libro
+
 
 Disponibile: true
+
 ISBN: ISBN978-88-540-3044-2
+
 Titolo: Alaska
+
 Autore: NationalGeografic
+
 CasaEditrice: EdizioniWhiteStar
+
 AnnoEdizione: 2016
+
 
 Collocazione libro
 
 Sezione: Turismo
+
 Scaffale: 4
+
 NumeroSeriale: AL1
+
 Dati Biblioteca:
+
 Nome: Biblioteca Centrale
+
 Indirizzo: CorsoMarche34R
+
 Telefono: 01854465254
+
 
 
 
 Catalogo :Librario
 
+
 Dati libro
 
+
 Disponibile: false
+
 ISBN: ISBN978-88-540-3041-1
+
 Titolo: Granbretagna
+
 Autore: NationalGeografic
+
 CasaEditrice: EdizioniWhiteStar
+
 AnnoEdizione: 2016
+
 
 Collocazione libro
 
+
 Sezione: Turismo
+
 Scaffale: 4
+
 NumeroSeriale: GR2
+
 Dati Biblioteca:
+
 Nome: Biblioteca Centrale
+
 Indirizzo: CorsoMarche34R
+
 Telefono: 01854465254
+
 
 Effettuata la ricerca appare questo sotto menu se non si ha effettuato la log in
 
+
 Benvenuto/a nel sistema di gestione delle Biblioteche
+
 -------------------------MENU----------------------
+
 1-	Torna a menu
+
 2-	Recensisci
+
 Inserisci un numero tra 1 e 2 e premi INVIO -> __
+
 
 Si può recensire il libro o i libri trovati ( premendo 2 ) o tornare indietro al menu principale ( premendo 1 )
 
+
 Quale libro vuoi recensire?
+
 1) Alaska
+
 2) Granbretagna
+
 Inserisci un numero da 1 a 3 e premi INVIO -> __2
+
 Recensisci Granbretagna:
+
 Esprimi un voto da 1 a 5 -> 5
+
 Esprimi una descrizione -> Consigliatissimo
+
 
 Tornando al menu principale è possibile suggerire l'acquisto di un libro ( premendo 4 ) e appare analogamente alla ricerca la possibilità di inserire da 1 a 4 campi dove l'utente può o scrivere ( scrivendo e premendo invio ) o lasciare vuoto ( premendo solo invio )
 
+
 Inserisci qui i dati del libro di cui vuoi suggerire l'acquisto:
+
 ISBN:	
+
 Titolo:	Africa
+
 Autore:	NationalGeografic
+
 Casa editrice:	
+
 Anno edizione:	
+
 Elenco risultati:
+
 
 Richiesta inserita correttamente
 
 
+
 Dati libro
 
+
 Disponibile: false
+
 ISBN: null
+
 Titolo: Africa
+
 Autore: NationalGeografic
+
 CasaEditrice: null
+
 AnnoEdizione: 0
+
 
 Ora passiamo a parlare del menu da utente registrato che ha effettuato il log in:
 
+
 Benvenuto/a Mauro nel sistema di gestione delle Biblioteche
+
 -------------------------MENU----------------------
+
 1-	Ricerca
+
 2- 	Abbonati
+
 3-	Suggerisci acquisto prodotto
+
 4- 	Logout
+
 5- 	Esci
+
 Inserisci un numero da 1 a 5 e premi INVIO -> __
+
 
 In questo menu se si effettua una ricerca il sotto menu corrispondente differisce da prima:
 
+
 Benvenuto/aMauronel sistema di gestione delle Biblioteche
+
 -------------------------MENU----------------------
+
 1-	Torna a menu
+
 2-	Recensisci
+
 3-	Prenota
+
 4-	Consulta
+
 Inserisci un numero da 1 a 4 e premi INVIO -> __
+
 
 Consente la prenotazione ( premendo 3 )
 
+
+
 Libro disponibile
+
 Dati prestito:
+
 
 Dati libro
 
+
 Disponibile: false
+
 ISBN: ISBN978-88-540-3091-4
 Titolo: Cina
 Autore: NationalGeografic
