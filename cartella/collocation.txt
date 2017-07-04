@@ -1,0 +1,28 @@
+
+Turismo
+4
+AL1
+Biblioteca Centrale
+CorsoMarche34R
+01854465254
+
+Turismo
+4
+GR2
+Biblioteca Centrale
+CorsoMarche34R
+01854465254
+
+Turismo
+5
+CI4
+Biblioteca Centrale
+CorsoMarche34R
+01854465254
+
+Turismo
+3
+BR8
+Biblioteca Centrale
+CorsoMarche34R
+01854465254
